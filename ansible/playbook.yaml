@@ -1,0 +1,6 @@
+- name: linux host
+  hosts: linuxslave
+  become: true
+  tasks:
+    - name: list
+      command: ls
