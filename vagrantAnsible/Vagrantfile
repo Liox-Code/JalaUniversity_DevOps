@@ -1,0 +1,12 @@
+Vagrant.configure(2) do |config|
+    config.vm.define "master" do |master|    
+        master.vm.box ="ubuntu/focal64"
+        # You may wish to use a more obscure private ip, like 10.2.2.4
+        master.vm.network "private_network", ip: "10.0.0.200"
+    end
+    config.vm.define "slave" do |slave|    
+        slave.vm.box ="ubuntu/focal64"
+        # You may wish to use a more obscure private ip, like 10.2.2.5
+        slave.vm.network "private_network", ip: "10.0.0.201"
+    end
+end
