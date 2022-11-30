@@ -60,3 +60,12 @@ in your local machine and attach screenshots when you document)
  &emsp;○ Create ansible inventory file  
  &emsp;○ Create ansible playbook  
  &emsp;○ Create public /private key pair and setup SSH authentication
+
+## Branch terraform
+
+### Homework
+
+● Create a terraform config with any provider of choice (Docker if you prefer) and share the terraform config files (with .tf extension) and state file (with .tfstate extension)  
+&emsp;○ Step 1 : Install terraform  
+&emsp;○ Step 2 : Create tf config file to pull & create a docker container referring the documentation  
+&emsp;○ Step 3 : Terraform init, plan & apply  
