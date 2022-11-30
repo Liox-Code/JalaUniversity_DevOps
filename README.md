@@ -61,7 +61,7 @@ in your local machine and attach screenshots when you document)
  &emsp;○ Create ansible playbook  
  &emsp;○ Create public /private key pair and setup SSH authentication
 
-## Branch ansible
+## Branch terraform
 
 ### Homework
 
