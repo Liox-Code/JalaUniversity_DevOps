@@ -69,3 +69,13 @@ in your local machine and attach screenshots when you document)
 &emsp;○ Step 1 : Install terraform  
 &emsp;○ Step 2 : Create tf config file to pull & create a docker container referring the documentation  
 &emsp;○ Step 3 : Terraform init, plan & apply  
+
+## Branch docker-compose
+
+### Homework
+
+&emsp;● Install docker compose (Install docker as well if not already installed)  
+&emsp;● Create a simple docker compose file with 2 services (preferably a backend and DB service)  
+&emsp;● Run the docker-compose up -d command  
+&emsp;● Finally run docker-compose ps command to show the list of services stood up by docker compose  
+&emsp;● Upload the docker compose file along with the screenshot of docker-compose ps command output
