@@ -79,3 +79,9 @@ in your local machine and attach screenshots when you document)
 &emsp;● Run the docker-compose up -d command  
 &emsp;● Finally run docker-compose ps command to show the list of services stood up by docker compose  
 &emsp;● Upload the docker compose file along with the screenshot of docker-compose ps command output
+
+## Branch prometheus-grafana
+
+### Homework
+
+&emsp;● Create a docker-compose file with Prometheus, Grafana and Node-exporter
