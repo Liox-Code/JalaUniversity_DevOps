@@ -85,3 +85,11 @@ in your local machine and attach screenshots when you document)
 ### Homework
 
 &emsp;● Create a docker-compose file with Prometheus, Grafana and Node-exporter
+
+## Branch selenium
+
+### Homework
+
+●Create a simple selenium webdriver script for browser / programming language of your choice  
+&emsp;○ Install selenium and its language binding of your choice  
+&emsp;○ Create a simple test which launches the URL and then does a click somewhere  
