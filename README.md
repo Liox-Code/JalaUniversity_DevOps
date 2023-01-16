@@ -59,8 +59,8 @@ in your local machine and attach screenshots when you document)
  &emsp;○ Install ansible on your local machine and control the VM (perform installations of tools / libraries)  
  &emsp;○ Create ansible inventory file  
  &emsp;○ Create ansible playbook  
- &emsp;○ Create public /private key pair and setup SSH authentication  
- 
+ &emsp;○ Create public /private key pair and setup SSH authentication
+
 ## Branch terraform
 
 ### Homework
@@ -68,7 +68,7 @@ in your local machine and attach screenshots when you document)
 ● Create a terraform config with any provider of choice (Docker if you prefer) and share the terraform config files (with .tf extension) and state file (with .tfstate extension)  
 &emsp;○ Step 1 : Install terraform  
 &emsp;○ Step 2 : Create tf config file to pull & create a docker container referring the documentation  
-&emsp;○ Step 3 : Terraform init, plan & apply  
+&emsp;○ Step 3 : Terraform init, plan & apply
 
 ## Branch docker-compose
 
@@ -92,4 +92,10 @@ in your local machine and attach screenshots when you document)
 
 ●Create a simple selenium webdriver script for browser / programming language of your choice  
 &emsp;○ Install selenium and its language binding of your choice  
-&emsp;○ Create a simple test which launches the URL and then does a click somewhere  
+&emsp;○ Create a simple test which launches the URL and then does a click somewhere
+
+## Branch aws
+
+### Homework
+
+&emsp;● Create a Cloud Formation template that creates an EC2 instance with an EBS Volume that uses an already created key pair called test
